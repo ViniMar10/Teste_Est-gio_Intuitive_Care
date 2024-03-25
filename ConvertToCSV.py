@@ -7,7 +7,7 @@ import PyPDF2
 import pandas as pd
 
 with zipfile.ZipFile("downloaded_pdfs.zip",'r') as zipf:
-    #extracting Anexo I from the zip file
+    #extracting Anexo I from the zip file created after carrying out the first test
     zipf.extract("Anexo_I_Rol_2021RN_465.2021_RN599_RN600.pdf")
 
 #Creating a function to remove pages that don't have a table from the pdf
