@@ -1,1 +1,1 @@
-Este diretório é destinado a realizção do teste técnico
+Este diretório é destinado à realizção do teste técnico
